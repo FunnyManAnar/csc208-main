@@ -11,6 +11,7 @@ That would have 5 vertices, 4 edges, and 2 faces which leads us to 5 - 4 + 2 = 2
 if the two were connected we can see that the count of vertices decreases telling us the action of separation causes an added vertice without the balanced increase in edges. 
 
 ![Image of graph](https://github.com/FunnyManAnar/csc208-main/blob/main/Screenshot%202024-06-04%20at%208.26.55%20AM.png)
+
 $$v - e + f = k + 1$$
 
 This is because adding a face adds a vertice without adding an edge increasing the total.
